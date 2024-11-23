@@ -58,7 +58,7 @@ const CONFIG = {
 			link: 'https://hetstreek.magister.net/',
 		},
 		{
-			id: '3',
+			id: '2',
 			name: 'Zermelo',
 			icon: 'calendar-plus',
 			link: 'https://todoist.com',
@@ -76,7 +76,7 @@ const CONFIG = {
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '2',
+			id: '3',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com',
