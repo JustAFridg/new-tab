@@ -111,7 +111,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Google Drive',
-			icon: 'cloud',
+			icon: 'hard-drive',
 			link: 'https://drive.google.com',
 		},
 		{
